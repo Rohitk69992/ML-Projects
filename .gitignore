@@ -157,6 +157,11 @@ activemq-data/
 artifacts/
  .artifacts
 
+#ignore catboost_info
+catboost_info/
+ .catboost_info
+
+
 # Environments
 .artifacts/
 .env
